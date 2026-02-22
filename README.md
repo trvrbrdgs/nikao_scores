@@ -1,5 +1,6 @@
 # nikao_scores
 The one stop shop for checking workouts and scores at Nikao. From 2019 to present day.
+https://trvrbrdgs.github.io/nikao_scores/
 
 ## Created Simple Webpage
 *Using JavaScript, HTML, CSS, and Google Suite*
